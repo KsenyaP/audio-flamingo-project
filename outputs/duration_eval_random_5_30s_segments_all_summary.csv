@@ -1,0 +1,2 @@
+experiment,total_examples,valid_parsed_answers,failed_or_unparsable,mean_absolute_error,median_absolute_error,accuracy_within_1s,accuracy_within_2s,accuracy_within_5s
+random_5_30s_segments,2000,2000,0,2.67052784375,2.03015625,0.238,0.494,0.8875

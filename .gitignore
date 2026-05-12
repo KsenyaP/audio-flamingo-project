@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data: do not push the full TACOS dataset
+data/TACOS/audio/
+data/TACOS/*.zip
+
+# Large or temporary outputs
+outputs/*.csv
+
+# Keep selected summaries if needed
+!outputs/*summary.csv
+!outputs/*bucket_summary.csv
+!outputs/*comparison.csv
+
+# HuggingFace / model cache
+.cache/
+huggingface/
+models--*/
+
+# System files
+.DS_Store
+Thumbs.db
