@@ -1,0 +1,2 @@
+total_examples,valid_parsed_answers,failed_or_unparsable,mean_absolute_error,median_absolute_error,accuracy_within_1s,accuracy_within_2s,accuracy_within_5s
+2000,2000,0,2.7111185625,1.6283750000000001,0.255,0.6315,0.8295
